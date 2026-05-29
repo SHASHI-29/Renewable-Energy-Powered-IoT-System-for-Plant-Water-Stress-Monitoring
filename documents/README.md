@@ -5,4 +5,4 @@ This folder contains the project documentation, including the final project repo
 ## Contents
 
 * **Project_Report.pdf** – Detailed project report covering design, implementation, testing, and results.
-* **PPT.pptx** – Project presentation summarizing objectives, methodology, system architecture, and outcomes.
+* **PPT.pdf** – Project presentation summarizing objectives, methodology, system architecture, and outcomes.
