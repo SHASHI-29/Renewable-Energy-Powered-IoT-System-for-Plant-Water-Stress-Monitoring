@@ -1,6 +1,6 @@
 ## Project Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype.jpeg)
 
 ## System Architecture
 
